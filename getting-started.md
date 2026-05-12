@@ -83,7 +83,7 @@ curl -X 'GET' \
   -H 'tz: Asia/Shanghai'
 ```
 
-**预期返回结果:**
+**预期返回结果:** 
 ```json
 {
   "code": 0,
