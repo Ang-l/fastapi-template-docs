@@ -47,8 +47,11 @@ export default defineConfig({
         text: '指南',
         items: [
           { text: '什么是 fastapi-template?', link: '/fastapi-template-is' },
+          { text: '准备', link: '/prepare' },
+          { text: '结构', link: '/structure' },
           { text: '快速开始', link: '/getting-started' },
           { text: '配置', link: '/configuration' },
+          { text: '状态码', link: '/code' },
         ]
 
       }
