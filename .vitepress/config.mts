@@ -48,6 +48,7 @@ export default defineConfig({
         items: [
           { text: '什么是 fastapi-template?', link: '/fastapi-template-is' },
           { text: '快速开始', link: '/getting-started' },
+          { text: '配置', link: '/configuration' },
         ]
 
       }
@@ -55,6 +56,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/Ang-l/fast-template' }
-    ]
+    ],
+    outline: [2, 3]
   }
 })
